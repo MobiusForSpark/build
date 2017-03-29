@@ -1,2 +1,2 @@
 # build
-This repository contains data needed in building SparkCLR.
+This repository contains tools needed to build Mobius in AppVeyor or TravisCI.
